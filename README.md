@@ -1,2 +1,3 @@
-# Ujjwal-Chaturvedi-
-Wedding Plan
+# harjotscs.github.io
+first clg project
+will update soon
